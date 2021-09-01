@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.allin.medrecorddossier.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.allin.medrecorddossier.MyBundle
 
 class MyApplicationService {
 

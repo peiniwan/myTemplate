@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.allin.medrecorddossier.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.allin.medrecorddossier.MyBundle
 
 class MyProjectService(project: Project) {
 

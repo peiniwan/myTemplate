@@ -1,4 +1,5 @@
 # IntelliJ Platform Plugin Template
+## 切换dev分支
 
 [![official JetBrains project](https://jb.gg/badges/official.svg)][jb:confluence-on-gh]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JBPlatform?style=flat)][jb:twitter]

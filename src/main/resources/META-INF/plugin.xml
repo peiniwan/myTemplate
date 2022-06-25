@@ -1,7 +1,12 @@
 <idea-plugin>
-    <id>com.allin.medrecorddossier</id>
-    <name>allinTemplate</name>
-    <description>使用该模板快捷创建Activity,layout,viewModel等文件</description>
+<!--    <id>com.allin.medrecorddossier</id>-->
+<!--    <name>allinTemplate</name>-->
+<!--    <description>使用该模板快捷创建Activity,layout,viewModel等文件</description>-->
+<!--    <vendor>liuyu</vendor>-->
+
+    <id>com.ly.mvp</id>
+    <name>mvpTemplate</name>
+    <description>使用该模板快捷创建Activity,layout,MVP等文件使用该模板快捷创建Activity,layout,MVP等文件</description>
     <vendor>liuyu</vendor>
 
     <!-- Product and plugin compatibility requirements -->
@@ -16,7 +21,8 @@
         <projectService serviceImplementation="com.allin.medrecorddossier.services.MyProjectService"/>
     </extensions>
     <extensions defaultExtensionNs="com.android.tools.idea.wizard.template">
-        <wizardTemplateProvider implementation="other.allin.SamplePluginTemplateProviderImpl"/>
+<!--        <wizardTemplateProvider implementation="other.allin.SamplePluginTemplateProviderImpl"/>-->
+        <wizardTemplateProvider implementation="other.mvp.MVPTemplateProviderImpl"/>
     </extensions>
 
     <applicationListeners>

@@ -1,4 +1,4 @@
-package other.allin.adapter
+package other.allin.adapter.src.app_package
 
 /**
  * 4. 创建mvvmAcitivityKt。

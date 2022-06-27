@@ -2,6 +2,7 @@ package other.allin.adapter
 
 import com.android.tools.idea.wizard.template.ModuleTemplateData
 import com.android.tools.idea.wizard.template.RecipeExecutor
+import other.allin.adapter.src.app_package.allinAdapterKt
 import other.allin.adapter.src.res.layout.allinAdapterXml
 
 /**
